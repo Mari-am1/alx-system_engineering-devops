@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ra . | sort | find -empty ; echo
+ls -a . | sort | find -empty ; echo
